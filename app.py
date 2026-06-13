@@ -257,7 +257,7 @@ with gr.Blocks(title=f"African AI {VERSION}") as demo:
     # Splash screen
     gr.HTML(f"""
     <div id="splash">
-        <img src="{LOGO_URL}" alt="African AI"
+        <img src="https://raw.githubusercontent.com/Anaase-Tech/African-AI/main/logo.png" alt="African AI"
              onerror="this.src='https://upload.wikimedia.org/wikipedia/commons/8/80/Africa_icon.svg'"/>
         <div id="splash-title">AFRICAN AI</div>
         <div id="splash-sub">BY AFRICA · FOR AFRICA</div>
@@ -269,7 +269,7 @@ with gr.Blocks(title=f"African AI {VERSION}") as demo:
     gr.HTML(f"""
     <div class="hero">
         <div class="logo-wrap">
-            <img src="{LOGO_URL}" alt="African AI"
+            <img src="https://raw.githubusercontent.com/Anaase-Tech/African-AI/main/logo.png" alt="African AI"
                  onerror="this.src='https://upload.wikimedia.org/wikipedia/commons/8/80/Africa_icon.svg'"/>
         </div>
         <div class="hero-title">AFRICAN AI</div>
@@ -291,7 +291,8 @@ with gr.Blocks(title=f"African AI {VERSION}") as demo:
     chatbot = gr.Chatbot(
         height="72vh",
         show_label=False,
-        avatar_images=(None, LOGO_URL),
+        avatar_images=(None, "https://raw.githubusercontent.com/Anaase-Tech/African-AI/main/logo.png"
+        ),
     )
 
     # Input row
