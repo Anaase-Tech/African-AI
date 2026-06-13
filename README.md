@@ -1,6 +1,6 @@
 # African AI v4.1 🌍
 **Built by Africans · Powered by African Knowledge**
-By Anaase-Tech Ltd | CEO: Eddy B3rima | CTO: Claude
+By Anaase-Tech | Founder/CEO: Y.A B3rima
 
 ## What is African AI?
 A RAG (Retrieval-Augmented Generation) chatbot built specifically for African knowledge — languages, history, philosophy, culture, music, food, leaders, spirituality, and more.
