@@ -1,7 +1,7 @@
 """
 =============================================================
 AFRICAN AI v4.1 — MAIN ENTRY POINT
-By Anaase-Tech Ltd | CTO: Claude | CEO: Eddy B3rima
+By Anaase-Tech | Founder/CEO: Y.A B3rima
 
 This file contains only the Gradio UI and launch config.
 All logic lives in separate modules:
