@@ -340,7 +340,7 @@ with gr.Blocks(title=f"African AI {VERSION}") as demo:
 
     gr.HTML(f"""
     <div style="text-align:center;padding:14px 0 4px;font-size:0.72rem;color:#444;">
-        African AI {VERSION} &bull; Built in Ghana 🇬🇭 by Anaase-Tech Ltd
+        African AI {VERSION} &bull; Built in Ghana 🇬🇭 by Anaase-Tech
     </div>
     """)
 
